@@ -1,16 +1,69 @@
-## Hi there 👋
+# 🌱 Mayro Kids
 
-<!--
-**Mayrokids/mayrokids** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Building a safe, beautiful and educational world for children.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 About
+
+Mayro Kids is an independent children's digital brand focused on creating safe, educational and joyful experiences for preschool children.
+
+Our mission is not to increase screen time.
+
+Our mission is to make screen time meaningful.
+
+---
+
+## 🎯 Vision
+
+To become one of the world's most trusted children's digital brands.
+
+---
+
+## 💙 Core Values
+
+- 🌱 Curiosity
+- 💙 Trust
+- ✨ Discovery
+- 😊 Kindness
+- 🌍 Accessibility
+
+---
+
+## 🚀 Project Status
+
+🟢 Brand Development
+
+---
+
+## 📂 Repository Structure
+
+brand-book/
+
+character/
+
+world/
+
+flutter/
+
+assets/
+
+docs/
+
+ui-kit/
+
+---
+
+## 🧸 Mascot
+
+**Mayro**
+
+A curious little explorer helping children discover the world through play.
+
+---
+
+## 📅 Started
+
+2026
