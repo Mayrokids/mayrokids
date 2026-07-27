@@ -1,0 +1,3 @@
+# Character
+
+Official mascot documents.
